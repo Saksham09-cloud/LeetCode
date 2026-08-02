@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saksham09-cloud/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Saksham09-cloud/LeetCode/tree/master/0015-3sum) |
+| [0739-daily-temperatures](https://github.com/Saksham09-cloud/LeetCode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Saksham09-cloud/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saksham09-cloud/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saksham09-cloud/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0739-daily-temperatures](https://github.com/Saksham09-cloud/LeetCode/tree/master/0739-daily-temperatures) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saksham09-cloud/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Saksham09-cloud/LeetCode/tree/master/0076-minimum-window-substring) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Saksham09-cloud/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
