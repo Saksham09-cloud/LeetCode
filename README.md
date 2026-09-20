@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saksham09-cloud/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Saksham09-cloud/LeetCode/tree/master/0015-3sum) |
 | [0198-house-robber](https://github.com/Saksham09-cloud/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Saksham09-cloud/LeetCode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/Saksham09-cloud/LeetCode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Saksham09-cloud/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saksham09-cloud/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Saksham09-cloud/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Saksham09-cloud/LeetCode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Saksham09-cloud/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saksham09-cloud/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Saksham09-cloud/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saksham09-cloud/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Saksham09-cloud/LeetCode/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Saksham09-cloud/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Saksham09-cloud/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Saksham09-cloud/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saksham09-cloud/LeetCode/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Saksham09-cloud/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Saksham09-cloud/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
